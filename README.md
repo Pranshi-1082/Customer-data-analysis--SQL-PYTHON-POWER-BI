@@ -1,12 +1,31 @@
-# Customer-data-analysis--SQL-PYTHON-POWER-BI 
+## 🛒 Customer Shopping Behavior Analysis
 
-## 📌 Project Overview
-The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
+**End-to-End Data Analytics Project using Python, SQL & Power BI**
 
-✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+Analyzed **3,900 retail transactions** to understand customer purchasing behavior, product performance, discount usage, and subscription impact.
 
-✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+### 🔧 Tools & Technologies
+- Python (Pandas, NumPy)
+-  MySQL
+- Power BI
+- Jupyter Notebook
 
-✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+### 📌 Key Work Done
+- Cleaned and preprocessed data (handled missing values, feature engineering)
+- Performed SQL-based business analysis in MySQL
+- Built an interactive Power BI dashboard for decision-making
+- Segmented customers into New, Returning, and Loyal groups
 
-✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+### 📊 Key Insights
+- Male customers generated higher total revenue
+- Express shipping users had higher average purchase value
+- Loyal customers formed the largest customer segment
+- Certain products were highly discount-dependent
+- Young adults and middle-aged groups contributed most revenue
+
+### 💡 Business Impact
+- Identified opportunities to boost subscriptions
+- Recommended loyalty programs for repeat buyers
+- Suggested optimized discount and product positioning strategies
+
+➡️ **Outcome:** Delivered actionable insights to support marketing, pricing, and customer retention strategies.
